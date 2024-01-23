@@ -1,10 +1,10 @@
 .input {
   padding: 8px 10px;
   min-width: 200px;
-  text-shadow: 1px 1px 2px blueviolet;
+  text-shadow: 1px 1px 2px rgb(168, 105, 228);
 }
 label {
-  color: rgb(107, 104, 104);
+  color: rgb(184, 53, 53);
 }
 
 .btn {
