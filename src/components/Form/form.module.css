@@ -1,16 +1,16 @@
 .input {
   padding: 8px 10px;
   min-width: 200px;
-  text-shadow: 1px 1px 2px rgb(168, 105, 228);
+  text-shadow: 1px 1px 2px rgb(138, 118, 157);
 }
 label {
-  color: rgb(184, 53, 53);
+  color: rgb(0, 0, 0);
 }
 
 .btn {
   height: 35px;
   cursor: pointer;
-  background-color: blueviolet;
+  background-color: rgb(49, 173, 192);
   transition: background-color 350ms cubic-bezier(0.47, 0, 0.745, 0.715),
     color 350ms cubic-bezier(0.47, 0, 0.745, 0.715);
 }
